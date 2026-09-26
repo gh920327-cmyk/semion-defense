@@ -1,0 +1,16 @@
+{
+  "name": "semion-td",
+  "version": "1.0.0",
+  "description": "직업과 시너지가 있는 협동 멀티플레이 타워 디펜스",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
